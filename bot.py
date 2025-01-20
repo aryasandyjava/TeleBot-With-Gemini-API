@@ -1,4 +1,3 @@
-!pip install python-telegram-bot==20.3 requests nest_asyncio
 import asyncio
 import requests
 import re  # Untuk validasi input
